@@ -1,0 +1,9 @@
+pandas 
+numpy 
+matplotlib
+seaborn 
+scikit-learn
+tensorflow-macos==2.15.0
+tensorflow-metal==1.0.1
+tensorboard
+streamlit 
